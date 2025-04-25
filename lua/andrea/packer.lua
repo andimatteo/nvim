@@ -49,4 +49,6 @@ return require('packer').startup(function(use)
   use "saadparwaiz1/cmp_luasnip" -- Snippet completions
   use "numToStr/Comment.nvim" -- comment and uncomment
 
+  use "ThePrimeagen/vim-be-good"
+
 end)
