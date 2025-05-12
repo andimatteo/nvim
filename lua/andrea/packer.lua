@@ -53,4 +53,6 @@ return require('packer').startup(function(use)
 
   use "wellle/context.vim"
 
+  use "ojroques/vim-oscyank"
+
 end)
